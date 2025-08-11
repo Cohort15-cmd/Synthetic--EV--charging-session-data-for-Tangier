@@ -93,3 +93,8 @@ Outputs:
 
 ---
 
+Author & Notes
+
+This project was developed by Youssef El Khaldouni during a research workflow that required generating EV charging data 
+
+Feel free to work, improve, or submit issues if you're using this in your simulation workflow.
